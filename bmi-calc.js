@@ -4,3 +4,5 @@ function calcBmi() {
     var bmi = weight / Math.pow(height / 100, 2)
     document.getElementById("bmi").value = bmi
 }
+
+
